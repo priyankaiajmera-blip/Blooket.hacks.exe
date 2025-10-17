@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         Blooket Cheats Plus
-// @namespace    https://github.com/DannyDan0167/Blooket-Cheats
+// @namespace    https://github.com/priyankaiajmera-blip/Blooket.hacks.exe
 // @version      13.3
 // @description  Blooket Cheats Plus
-// @updateURL    https://github.com/DannyDan0167/Blooket-Cheats-Plus/raw/main/Update/Gui.meta.js
-// @downloadURL  https://github.com/DannyDan0167/Blooket-Cheats-Plus/raw/main/GUI/Gui.user.js
-// @author       DannyDan0167
+// @updateURL    https://github.com/priyankaiajmera-blip/Blooket.hacks.exe/edit/main/Gui.Hacks.js#L14C43
+// @downloadURL  https://github.com/priyankaiajmera-blip/Blooket.hacks.exe/edit/main/Gui.Hacks.js#L14C43
+// @author       shway
 // @match        https://dashboard.blooket.com/*
 // @match        https://play.blooket.com/*
 // @match        https://towerdefense2.blooket.com/*
